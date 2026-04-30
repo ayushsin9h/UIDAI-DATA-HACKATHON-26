@@ -46,7 +46,7 @@ Instead of merely tracking historical volumes, LAIF asks: **"WHO updated WHAT, W
 
 ---
 
-## 📂 Repository Structure (MLOps Standard)
+## 📂 Repository Structure (Machine Learning Standard)
 ```text
 UIDAI-DATA-HACKATHON-26/
 ├── dashboards/                  # Power BI dashboard for trend analysis
