@@ -63,17 +63,16 @@ UIDAI-DATA-HACKATHON-26/
 │   ├── biometric/
 │   │   ├── cleaning_3_states_biometric.py
 │   │   ├── cleaning_4_districts_biometric.py
-|   |   └── implementation_5_biometric_merging.py
+│   │   └── implementation_5_biometric_merging.py
 │   ├── demography/
 │   │   ├── cleaning_5_states_demography.py
 │   │   ├── cleaning_6_districts_demography.py
-|   |   └── implementation_6_demography_merging.py
+│   │   └── implementation_6_demography_merging.py
 │   └── enrolment/
 │       ├── cleaning_1_states_enrolment.py
-|       ├── cleaning_2_districts_enrolment.py
+│       ├── cleaning_2_districts_enrolment.py
 │       └── implementation_4_enrolment_merging.py
 ├── .gitignore                   # Ignores large data files and system caches
 ├── LICENSE                      # MIT License
 ├── README.md                    # Project documentation
 └── requirements.txt             # Python dependencies
-
