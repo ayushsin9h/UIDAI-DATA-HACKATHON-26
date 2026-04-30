@@ -1,0 +1,22 @@
+# --- Datasets ---
+# Ignore everything in the data folder EXCEPT the .gitkeep files
+data/*
+!data/**/.gitkeep
+*.csv
+*.xlsx
+*.parquet
+
+# --- Environment & Secrets ---
+.env
+venv/
+env/
+.venv/
+
+# --- Python & Jupyter Junk ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
