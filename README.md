@@ -17,6 +17,17 @@
 ## 📌 Problem Statement
 The current Aadhaar update system is largely reactive, leading to predictable overcrowding at centers during specific months (e.g., March and July). Resources are often unevenly distributed across states, and enrollment/update cycles lack a planned, anticipatory approach.
 
+---
+
+## 📥 Data Setup (Kaggle)
+Due to GitHub's file size constraints (100MB limit), the raw and processed Aadhaar datasets are hosted externally to maintain Git history integrity.
+
+1. Download the dataset from Kaggle: **https://www.kaggle.com/datasets/ayushs1ngh/uidai-2026-data-hackathon/**
+2. Extract the downloaded `.zip` file.
+3. Place the extracted `raw/` and `processed/` folders directly into the `data/` directory of this repository.
+
+---
+
 ## 💡 Proposed Solution: LAIF
 Instead of merely tracking historical volumes, LAIF asks: **"WHO updated WHAT, WHY, and WHEN—and what will happen NEXT?"**
 
